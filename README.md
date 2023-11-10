@@ -1,23 +1,11 @@
-# Tour and Travel 
+Overview: -
 
-This project is hosted on Netlify. CLick here to see the project live " https://sayancr777-tour-travelapp.netlify.app/ "
+This project is based on how an effective travel website will make us feel. It is based on a travelling website with fully featured functions that will activate the travelling bug with vibrant imagery. This website contains highlights of some important places along with high quality photography and allow people to book their dream destination with in their budgets. It also includes full customer support, easy payment system, book as per your time choice, full virtual tour of place through different videos and images.
 
-## Steps to set up Locally 
+PROBLEM STATEMENT :-
 
-To run this project in your local directory, you can follow this below commands:
+People all over the world are fond of travel and tourism. People often find it difficult to search for the best places .To address the issue , we adopt the travelling website which will offer best places among others.
 
-### `cd .\travel-react\`
+OBJECTIVE:-
 
-This command takes you into the main folder where this project is kept.\
-
-### `npm start`
-
-This command runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-
-
-
+The main objective of the project is to create a website using MERN STACK technologies to continuously provide enjoyable quality excursions/trips on time and on budget. It will also develop enthusiastically satisfied customers all of the time.
